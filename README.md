@@ -1,5 +1,5 @@
 # Flight_Price_Prediction
-**The objective of the case study is to analyse the flight booking dataset obtained from “Ease My Trip” website and to conduct various statistical hypothesis tests in order to get meaningful information from it. 'Easemytrip' is an internet platform for booking flight tickets. A thorough study of the data will aid in the discovery of valuable insights that will be of enormous value to passengers. Overall, I have to build a model that can precisely predict the ticket price.**
+**The objective of the case study is to analyse the flight bookings data obtained by “Ease My Trip” website and to conduct various statistical hypothesis tests in order to get meaningful information from it. A thorough study of the data will aid in the discovery of valuable insights that will be of enormous value to passengers. Overall, I had to build a model that can precisely predict the ticket price.**
 
 #### Brain Storming
 By getting problem of the client, i have some questions in my mind, which are follow
